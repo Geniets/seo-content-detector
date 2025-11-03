@@ -1,0 +1,11 @@
+url1,url2,similarity
+https://en.wikipedia.org/wiki/SD-WAN,https://www.fortinet.com/resources/cyberglossary/sd-wan-explained,0.8049
+https://www.microsoft.com/en-us/security/business/security-101/what-is-zero-trust-network-access-ztna,https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-access,0.8311
+https://www.efax.com/,https://sign.dropbox.com/products/dropbox-fax,0.859
+https://www.efax.com/,https://www.fax.plus/,0.8171
+https://sign.dropbox.com/products/dropbox-fax,https://www.fax.plus/,0.8299
+https://en.wikipedia.org/wiki/Search_engine_optimization,https://simple.wikipedia.org/wiki/Search_engine_optimization,0.9938
+https://en.wikipedia.org/wiki/Content_marketing,https://simple.wikipedia.org/wiki/Content_marketing,0.8711
+https://en.wikipedia.org/wiki/Machine_learning,https://simple.wikipedia.org/wiki/Machine_learning,0.9941
+https://en.wikipedia.org/wiki/Artificial_intelligence,https://simple.wikipedia.org/wiki/Artificial_intelligence,0.9925
+https://en.wikipedia.org/wiki/Digital_marketing,https://simple.wikipedia.org/wiki/Digital_marketing,0.9402

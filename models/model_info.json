@@ -1,0 +1,11 @@
+{
+  "rf_model": "quality_model.pkl",
+  "sentence_transformer": "all-MiniLM-L6-v2",
+  "feature_columns": [
+    "word_count",
+    "sentence_count",
+    "flesch_reading_ease"
+  ],
+  "similarity_threshold": 0.8,
+  "thin_content_threshold": 500
+}
