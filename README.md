@@ -2,6 +2,8 @@
 
 A machine learning pipeline for analyzing web content quality and detecting duplicate content using NLP techniques.
 
+**🚀 Live Demo:** [https://seo-content-detector-ymmew82uesk2nsyr6dcrgs.streamlit.app/](https://seo-content-detector-ymmew82uesk2nsyr6dcrgs.streamlit.app/)
+
 ## Project Overview
 
 This project implements a data science pipeline that:
@@ -49,6 +51,16 @@ jupyter notebook notebooks/seo_pipeline.ipynb
 - Duplicate pairs detected above 0.80 similarity
 - Thin content flagged at <500 words
 - Quality labels: High/Medium/Low
+
+## Web Application
+
+Try the live Streamlit app to analyze any URL in real-time:
+- Quality assessment (Low/Medium/High)
+- Readability scores
+- Duplicate detection
+- Thin content identification
+
+Access at: [https://seo-content-detector-ymmew82uesk2nsyr6dcrgs.streamlit.app/](https://seo-content-detector-ymmew82uesk2nsyr6dcrgs.streamlit.app/)
 
 ## Limitations
 
