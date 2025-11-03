@@ -38,14 +38,14 @@ jupyter notebook notebooks/seo_pipeline.ipynb
 ## Results Summary
 
 **Model Performance:**
-- Accuracy: 0.85 (vs 0.64 baseline)
-- F1-Score: 0.83
-- Improvement: +33% over rule-based baseline
+- Accuracy: 1.0000 (vs 0.4762 baseline)
+- F1-Score: 1.0000
+- Improvement: +52% over rule-based baseline
 
 **Top Features:**
-1. word_count (0.45)
-2. flesch_reading_ease (0.32)
-3. sentence_count (0.23)
+1. flesch_reading_ease (0.48)
+2. sentence_count (0.27)
+3. word_count (0.26)
 
 **Content Analysis:**
 - Duplicate pairs detected above 0.80 similarity
